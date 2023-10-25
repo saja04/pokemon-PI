@@ -1,0 +1,86 @@
+.cards {
+  /* margin-top: 18vh; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.findedApi {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.findedDb {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.findedBoth {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.filtersDiv {
+  position: absolute;
+  top: 3vh;
+  left: 68vw;
+}
+.loading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.pageDiv {
+  /* display: flex;
+    text-align: center;
+    align-items: center; */
+  position: absolute;
+  bottom: 1vh;
+  right: 43.9vw;
+}
+.pageMover {
+  cursor: pointer;
+  width: 3vw;
+  height: 3vh;
+  border: 0.2vw solid white;
+  border-radius: 0.6vw;
+  margin: 1vw;
+  background-color: #081d3b;
+  color: #909090;
+  font-size: 0.8vw;
+}
+.pageMover:active {
+  background-color: #304c77;
+}
+.pageAlone {
+  cursor: pointer;
+  width: 3vw;
+  height: 3vh;
+  border: 0.2vw solid white;
+  border-radius: 0.6vw;
+  margin-left: 0.1px;
+  font-size: 0.8vw;
+  background-color: #0f55bd;
+}
+
+.backHomeCards {
+  position: absolute;
+  top: 20vh;
+  left: 2vw;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 7vw;
+  height: 5vh;
+  background-color: #022d6d79;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  border: 0.3vw solid #091d3a;
+  border-radius: 1vw;
+}
+.backHomeCards:hover{
+  border: 0.3vw solid #3b69ad;
+  background-color: #0f294fbf;
+}
+

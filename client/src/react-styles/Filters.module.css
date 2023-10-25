@@ -1,0 +1,119 @@
+.filterMainDiv {
+  width: 31.5vw;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  right: 3vw;
+  /* background-color: rgba(255, 255, 255, 0.186); */
+  border-radius: 0.5vw;
+  /* margin: 1vw; */
+}
+
+.originDiv {
+  background-color: #a72323;
+  border-radius: 0.3vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.2vw;
+  margin: 0.4vw;
+}
+.typeDiv {
+  background-color: #a72323;
+  border-radius: 0.3vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.2vw;
+  margin: 0.4vw;
+}
+.type {
+  border: 0.15vw solid rgb(255, 255, 255);
+  cursor: pointer;
+  font-size: 0.8vw;
+  padding: 0.2vw;
+  margin-right: 0.3vw;
+  margin-left: 0.4vw;
+  margin-top: 0.4vw;
+  background-color: brown;
+  width: 5vw;
+  height: 4vh;
+  border-radius: 0.6vw;
+}
+.type:focus{
+  background-color: rgb(193, 126, 126);
+}
+.type option{
+  border-radius: 1vw;
+  background-color: rgb(211, 61, 61);
+}
+.buttonOrigin {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: 0.15vw solid rgb(255, 255, 255);
+  font-size: 0.9vw;
+  padding: 0.4vw;
+  margin-right: 0.3vw;
+  margin-left: 0.4vw;
+  background-color: brown;
+  width: 3vw;
+  height: 4vh;
+  border-radius: 0.6vw;
+}
+.buttonOrigin:active {
+  border: 0.15vw solid black;
+}
+.filtersOrigin {
+  margin-left: 0.3vw;
+  font-size: 0.9vw;
+}
+
+
+.orderButtons{
+  background-color: #a72323;
+  border-radius: 0.3vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.2vw;
+  margin: 0.4vw;
+}
+.orderSelect{
+  border: 0.15vw solid rgb(255, 255, 255);
+  cursor: pointer;
+  font-size: 0.8vw;
+  padding: 0.2vw;
+  margin-left: 0.4vw;
+  margin-right: 0.3vw;
+  margin-top: 0.4vw;
+  background-color: brown;
+  width: 5vw;
+  height: 3.5vh;
+  border-radius: 0.6vw;
+}
+.orderSelect:focus{
+  background-color: rgb(193, 126, 126);
+}
+.orderSelect option{
+  background-color: rgb(211, 61, 61);
+}
+.resetButton{
+    display: flex;
+    text-align: center;
+    cursor: pointer;
+    border: 0.15vw solid rgb(255, 255, 255);
+    font-size: 0.8vw;
+    padding: 0.4vw;
+    margin-left: 0.1vw;
+    margin-right: 1vw;
+    background-color: rgb(255, 68, 0);
+    border-radius: 0.6vw;
+}
+.resetButton:active{
+  border: 0.15vw solid black;;
+}

@@ -1,0 +1,70 @@
+.detailMainDiv{
+    display: flex;
+    margin-left: 2vw;
+}
+
+.firstParams{
+    background-color: rgba(240, 248, 255, 0.5);
+    border: 0.5vw solid #6ECAFD;
+    border-radius: 2vw;
+    width: 25vw;
+    margin-top: 2vh;
+    margin-left: 11.5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10vw;
+
+}
+.detailName{
+    margin-bottom: 10vh;
+    font-size: 3vw;
+}
+.detailImage{
+    width: 8vw;
+    margin-bottom: 10vh;
+    
+}
+.backHomeDetail{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 7vw;
+    height: 5vh;
+    background-color: #022d6d79;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: 0.3vw solid #091d3a;
+    border-radius: 1vw;
+}
+
+.detailStats{
+    margin-top: 2vh;
+    position: relative;
+    background-color: #55b6fc8e;
+    border: 0.5vw solid #BFEDFF;
+    border-radius: 2vw;
+    width: 20vw;
+    height: 70vh;
+    margin-right: 1vw;
+    display: flex;
+    justify-content: center;
+    /* margin-right: 60vw; */
+    flex-direction: column;
+    align-items: center;
+    align-content: stretch;
+    flex-wrap: wrap;
+}
+.statsImages{
+    width: 1.2vw;
+    /* margin: 1.6vw; */
+
+}
+
+.statsTitle{
+    font-size: 1.3vw;
+    /* margin-right: 45vw; */
+    height: 4vh;
+}

@@ -1,0 +1,54 @@
+.navMainDiv{
+  width: 100vw;
+  height: 20vh;
+  /* background-color: #000000; */
+}
+.home {
+  background-image: url('../resources/images/Poké_Ball_icon.svg.png');
+  background-size: 5vw;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 1.9vh;
+  left: 1.1vw;
+  border: none;
+  cursor: pointer;
+
+  padding: 6.5vh 3.7vw 6.5vh 3.7vw;
+  border-radius: 10vw;
+}
+.home:hover {
+  background-image: url('../resources/images/HOME\ HOVER.png');
+  
+}
+.homeText {
+  font-size: 0.8vw;
+  color: #EB3333;
+}
+
+.searchBar {
+  position: absolute;
+  top: 4.8vh;
+  left: 11.5vw;
+}
+
+.create {
+    position: absolute;
+    top: 4.8vh;
+    left: 56vw;
+}
+
+.createButton{
+    width: 7vw;
+    height: 7vh;
+    border: 0.2vw solid black;
+    font-size: 1vw;
+    background-color: #8FE3FF;
+    border-radius: 2vw;
+    cursor: pointer;
+    color:#00526d
+}
+
+.createButton:hover {
+    color: white
+}

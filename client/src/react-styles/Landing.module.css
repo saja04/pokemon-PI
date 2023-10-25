@@ -1,0 +1,54 @@
+.mainDivLanding{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../resources/images/wp8813120.png');
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    background-position: center center;
+
+}
+
+.buttonGoContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.titleLanding{
+    cursor: default;
+    font-size: 3vw;
+    background: none;
+    color: white;
+    /* border: 2px solid black; */
+    transform: rotate(-25deg);
+    font-family: 'Ubuntu';
+    position: absolute;
+    top: 19vh;
+    left: 5vw;
+    /* -webkit-text-stroke: 1px lightblue; */
+}
+
+
+.buttonGo {
+    transform: rotate(-22deg);
+    font-family: 'Ubuntu';
+    text-decoration: none;
+    background: white;
+    padding: 4.5vh;
+    border: 1vh solid #ACDEFF;
+    border-radius: 100vw;
+    color: black;
+    text-align: center;
+    position: absolute;
+    top: 44.9vh;
+    right: 46.4vw;
+
+}
+.buttonGo:hover{
+    border: 1vh solid #35434d;
+}
+.buttonGo:active{
+    background-color: rgba(0, 0, 0, 0.514);
+}

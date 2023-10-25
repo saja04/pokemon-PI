@@ -1,0 +1,64 @@
+.singleCard{
+    width: 12vw;
+    height: 29vh;
+    border: 0.4vw solid rgba(99, 99, 99, 0.801);
+    background-color: rgba(255, 0, 0, 0.322) ;
+    border-radius: 3vw;
+    text-align: center;
+    margin: 1vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: space-around
+}
+.singleCard:hover{
+    border: 0.4vw solid white;
+}
+
+.cardNav{
+    text-decoration: none;
+    color: black;
+}
+
+.cardName{
+    margin-top: 4vh;
+}
+.cardImage{
+    width: 6vw;
+    height: auto;
+    border-radius: 1vw;
+}
+.cardDb{
+    width: 12vw;
+    height: 29vh;
+    border: 0.4vw solid orangered;
+    background-color: rgba(255, 0, 0, 0.322) ;
+    border-radius: 3vw;
+    text-align: center;
+    margin: 1vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: space-around
+}
+.cardDb:hover{
+    border: 0.4vw solid rgba(255, 255, 255, 0.801);
+}
+.cardName{
+    font-size: 1.3vw;
+}
+.cardTypes{
+    display: flex;
+    justify-content: center;
+}
+.cardType{
+    display: flex;
+    font-size: 0.8vw;
+    margin: 0.1vw;
+    padding: 0.5vw;
+    text-align: center;
+    align-items: center;
+    border: 0.15vw solid rgba(99, 99, 99, 0.801);
+    background-color: rgba(255, 0, 0, 0.322) ;
+    border-radius: 2vw;
+}
