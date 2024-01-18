@@ -1,33 +1,32 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-# **POKEMON** | Proyecto Individual
+# **POKEMON** | Individual Project
 
-## **📌 OBJETIVOS**
+## **📌 GOALS**
 
--  Construir una Single Page Application utlizando las tecnologías: **React**, **Redux**, **Node**, **Express** y **Sequelize**.
--  Poner en práctica recursos básicos de estilos y diseño (UX : UI).
--  Afirmar y conectar los conceptos aprendidos en la carrera.
--  Aprender mejores prácticas.
--  Aprender y practicar el workflow de GIT.
--  Utilizar y practicar testing.
-
+- Build a Single Page Application using the technologies: **React**, **Redux**, **Node**, **Express** and **Sequelize**.
+- Put into practice basic style and design resources (UX: UI).
+- Affirm and connect the concepts learned in the degree.
+- Learn best practices.
+- Learn and practice the GIT workflow.
+- Use and practice testing.
 <br />
 
 
-## **⚠️ IMPORTANTE**
+## **⚠️ IMPORTANT**
 
-Es necesario contar minimamente con la última versión estable de NodeJS y NPM. Asegúrate de contar con ella para poder instalar correctamente las dependecias necesarias para correr el proyecto. Actualmente las versiónes necesarias son:
+It is necessary to have at least the latest stable version of NodeJS and NPM. Make sure you have it so you can correctly install the dependencies necessary to run the project. Currently the necessary versions are:
 
--  **Node**: 12.18.3 o mayor
--  **NPM**: 6.14.16 o mayor
+-  **Node**: 12.18.3 or newer [download here](https://nodejs.org/en/download/current)
+-  **NPM**: 6.14.16 or newer [download here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-Para verificar que versión tienes instalada:
+To verify which version you have installed:
 
 ```bash
 node -v
 npm -v
 ```
- Las dependencias actuales se encuentran en las versiones que venimos trabajando durante el bootcamp.
+The current dependencies are in the versions that we have been working on during the bootcamp.
 
 -  **react**: 17.0.1
 -  **react-dom**: 17.0.1
@@ -51,7 +50,7 @@ npm -v
       <br/>
           <br/>
               <br/>
-   **DISCLAIMER** ⚠ DO NOT CLOSE ANY OF THE TERMINALS, remember that both client and api sides are running in them! If you want to close the full app, just kill the terminals or you can just close the text editor/code program **
+   ⚠**DISCLAIMER**  DO NOT CLOSE ANY OF THE TERMINALS, remember that both client and api sides are running in them! If you want to close the full app, just kill the terminals or you can just close the text editor/code program **
 ---
 
 <br />
