@@ -37,7 +37,7 @@ npm -v
 
 # **HOW TO INITIALIZE THE PROJECT LOCALLY TO SEE IT**
    
-   - First you have to *CLONDE this repository on your computer, you can see how to clone in [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+   - First you have to *CLONE* this repository on your computer, you can see how to clone in [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
     <br/>
    - Then, open a new terminal in the root .api/ y otra en .client/ of the project.
     <br/>
