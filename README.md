@@ -35,14 +35,15 @@ npm -v
 -  **redux**: 4.0.5
 -  **react-redux**: 7.2.3
 
-# **HOW TO INITIALIZE THE PROJECT LOCALLY TO VIEW IT:
+# **HOW TO INITIALIZE THE PROJECT LOCALLY TO VIEW IT: **
 <br/>
-   First you have to *CLONDE this repository on your computer, you can see how to clone in [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-   Then, open a new terminal in the root .api/ y otra en .client/ of the project.
-   In both terminals, execute the following command: 'npm i' to install all necessary dependencies for the project to run correctly.
-   Once all dependencies are installed properly, in the .api/ terminal run the command 'npm run dev'. After a little bit you will be having that terminal as the running local server, wich will execute all the API project functionalities in due circumstances.
-   If you already have the api server terminal running, go to the .client/ terminal and execute the command 'npm start' to start the React App, wich is the actual page that you can navigate (the front end). Once it runs, just as the api command, you will be running the client in that terminal so don't close any of them! Then a browser page will automatically open in the direction localhost:3000 with the client/front end site running.
-   **DISCLAIMER ⚠ DO NOT CLOSE ANY OF THE TERMINALS, remember that both client and api sides are running in them! If you want to close the full app, just kill the terminals or you can just close the text editor/code program
+   - First you have to *CLONDE this repository on your computer, you can see how to clone in [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+   - Then, open a new terminal in the root .api/ y otra en .client/ of the project.
+   - In both terminals, execute the following command: 'npm i' to install all necessary dependencies for the project to run correctly.
+   - Once all dependencies are installed properly, in the .api/ terminal run the command 'npm run dev'. After a little bit you will be having that terminal as the running local server, wich will execute all the API project functionalities in due circumstances.
+   - If you already have the api server terminal running, go to the .client/ terminal and execute the command 'npm start' to start the React App, wich is the actual page that you can navigate (the front end). - 
+   - Once it runs, just as the api command, you will be running the client in that terminal so don't close any of them! Then a browser page will automatically open in the direction localhost:3000 with the client/front end site running.
+   **DISCLAIMER ⚠ DO NOT CLOSE ANY OF THE TERMINALS, remember that both client and api sides are running in them! If you want to close the full app, just kill the terminals or you can just close the text editor/code program **
 ---
 
 <br />
