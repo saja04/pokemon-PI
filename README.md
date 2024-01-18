@@ -39,7 +39,7 @@ npm -v
    
    - First you have to *CLONE* this repository on your computer, you can see how to clone in [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
     <br/>
-   - Then, open a new terminal in the root .api/ y otra en .client/ of the project.
+   - Then, open a new terminal in the root .api/ and another one in .client/ of the project.
     <br/>
    - In both terminals, execute the following command: 'npm i' to install all necessary dependencies for the project to run correctly.
     <br/>
