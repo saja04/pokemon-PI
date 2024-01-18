@@ -49,7 +49,9 @@ npm -v
       <br/>
   - Once it runs, just as the api command, you will be running the client in that terminal so don't close any of them! Then a browser page will automatically open in the direction localhost:3000 with the client/front end site running.
       <br/>
-   **DISCLAIMER ⚠ DO NOT CLOSE ANY OF THE TERMINALS, remember that both client and api sides are running in them! If you want to close the full app, just kill the terminals or you can just close the text editor/code program **
+          <br/>
+              <br/>
+   **DISCLAIMER** ⚠ DO NOT CLOSE ANY OF THE TERMINALS, remember that both client and api sides are running in them! If you want to close the full app, just kill the terminals or you can just close the text editor/code program **
 ---
 
 <br />
