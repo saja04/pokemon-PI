@@ -27,8 +27,7 @@ Para verificar que versión tienes instalada:
 node -v
 npm -v
 ```
-
-# Las dependencias actuales se encuentran en las versiones que venimos trabajando durante el bootcamp.
+ Las dependencias actuales se encuentran en las versiones que venimos trabajando durante el bootcamp.
 
 -  **react**: 17.0.1
 -  **react-dom**: 17.0.1
@@ -36,7 +35,7 @@ npm -v
 -  **redux**: 4.0.5
 -  **react-redux**: 7.2.3
 
-# *HOW TO INITIALIZE THE PROJECT LOCALLY TO VIEW IT:
+# **HOW TO INITIALIZE THE PROJECT LOCALLY TO VIEW IT:
 <br/>
    First you have to *CLONDE this repository on your computer, you can see how to clone in [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
    Then, open a new terminal in the root .api/ y otra en .client/ of the project.
